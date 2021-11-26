@@ -1,0 +1,80 @@
+header{
+    background-color: azure;
+    padding: 20px;
+    margin: 0;
+    height: 40px;
+}
+
+div{
+    float: right;
+}
+nav ol li{
+    display: inline-block;
+    margin: 10px;
+}
+
+
+
+body{
+    background-color: rgb(1, 161, 224);
+    text-align: center;
+    font-family: 'Fredoka One', cursive;
+}
+
+h1{
+    font-size: 50px;
+    float: left;
+}
+
+
+#dallin{
+    height: 200px;
+    width: 175px;
+    border-radius: 10px;
+    
+}
+
+.interests{
+    text-align: center;
+    justify-content: center;
+}
+
+#section1{
+    background-color: yellow;
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+#section2{
+    background-color: violet;
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+#section3{
+    background-color: tomato;
+    width: 20%;
+    height: 300px;
+    padding: 10px;
+    margin: 10px;
+    justify-content: center;
+    border-radius: 10px;
+}
+
+.section{
+    display: inline-flex;
+}
+
+button{
+    background-color: yellow;
+    border-radius: 10px;
+    font-size: 15px;
+}
